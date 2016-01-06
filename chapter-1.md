@@ -1,13 +1,13 @@
 Over Publeaks
 =============
 
-1. [Stichting Publeaks](./chapter-1.md#stichting-publeaks)
-2. [Ondersteuning](./chapter-1.md#ondersteuning)
-3. [Hermes Centrum voor Transparantie en Digitale Rechten](./chapter-1.md#hermes-centrum-voor-transparantie-en-digitale-rechten)
-4. [Het Internet Protection Lab](./chapter-1.md#internet-protection-lab)
-5. [Greenhost](./chapter-1.md#greenhost)
+1. [Stichting Publeaks](#stichting-publeaks)
+2. [Ondersteuning](#ondersteuning)
+3. [Hermes Centrum voor Transparantie en Digitale Rechten](#hermes-centrum-voor-transparantie-en-digitale-rechten)
+4. [Internet Protection Lab](#internet-protection-lab)
+5. [Greenhost](#greenhost)
 
-[Terug naar de inhoudsopgave](./README.md#inhoudsopgave)
+[Terug naar de inhoudsopgave](README.md#inhoudsopgave)
 
 ***
 
