@@ -46,7 +46,7 @@ Voor technische vragen en ondersteuning kunt u terecht bij:
     Project Officer Gender, Innovation and Security
     Support Office Publeaks.nl
     Free Press Unlimited
-    oomens@freepressunlimited.org
+    support@publeaks.nl
     020 8000 495
 
 Hermes Centrum voor Transparantie en Digitale Rechten
