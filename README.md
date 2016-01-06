@@ -1,3 +1,5 @@
+<img src="assets/publeaks-logo.png" title="Publeaks logo" alt="Publeaks logo" width="200px" height="200px" style="float: right; margin: 0px 0px 15px 15px;" />
+
 Publeaks handleiding
 =============
 
