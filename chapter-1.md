@@ -1,9 +1,6 @@
 Over Publeaks
 =============
 
-Op deze pagina
--------------
-
 1. [Stichting Publeaks](./chapter-1.md#stichting-publeaks)
 2. [Ondersteuning](./chapter-1.md#ondersteuning)
 3. [Hermes Centrum voor Transparantie en Digitale Rechten](./chapter-1.md#hermes-centrum-voor-transparantie-en-digitale-rechten)
@@ -11,6 +8,8 @@ Op deze pagina
 5. [Greenhost](./chapter-1.md#greenhost)
 
 [Terug naar de inhoudsopgave](./README.md#inhoudsopgave)
+
+***
 
 In iedere samenleving vinden misstanden plaats en zijn er tipgevers die misschien informatie hebben of kennis van zaken die niet in de haak zijn. Misstanden waarvan zij vinden dat ze moeten worden onderzocht, om er een einde aan te maken of misschien om er een bredere discussie mee los te maken.
 
@@ -43,12 +42,12 @@ Ondersteuning
 
 Voor technische vragen en ondersteuning kunt u terecht bij:
 
-  Marcel Oomens
-  Project Officer Gender, Innovation and Security
-  Support Office Publeaks.nl
-  Free Press Unlimited
-  oomens@freepressunlimited.org
-  020 8000 495
+    Marcel Oomens
+    Project Officer Gender, Innovation and Security
+    Support Office Publeaks.nl
+    Free Press Unlimited
+    oomens@freepressunlimited.org
+    020 8000 495
 
 Hermes Centrum voor Transparantie en Digitale Rechten
 -------------
@@ -59,7 +58,7 @@ In samenwerking met Publeaks is de GlobaLeaks software aangepast en vertaald. He
 
 www.logioshermes.org
 
-Het Internet Protection Lab
+Internet Protection Lab
 -------------
 
 Het Internet Protection Lab is verantwoordelijk voor het technisch projectmanagement van Publeaks.nl. Het Internet Protection Lab biedt overal ter wereld concrete en gerichte steun aan journalisten, bloggers en activisten die bedreigd worden. Door het bieden van internetverbindingen en expertise van beveiligde webhosting, maken ze hun werk veiliger en effectiever.
