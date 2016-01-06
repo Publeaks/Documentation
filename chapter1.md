@@ -1,6 +1,17 @@
 Over Publeaks
 =============
 
+Op deze pagina
+-------------
+
+1. [Stichting Publeaks](./chapter-1.md#stichting-publeaks)
+2. [Ondersteuning](./chapter-1.md#ondersteuning)
+3. [Hermes Centrum voor Transparantie en Digitale Rechten](./chapter-1.md#hermes-centrum-voor-transparantie-en-digitale-rechten)
+4. [Het Internet Protection Lab](./chapter-1.md#internet-protection-lab)
+5. [Greenhost](./chapter-1.md#greenhost)
+
+[Terug naar de inhoudsopgave](./README.md#inhoudsopgave)
+
 In iedere samenleving vinden misstanden plaats en zijn er tipgevers die misschien informatie hebben of kennis van zaken die niet in de haak zijn. Misstanden waarvan zij vinden dat ze moeten worden onderzocht, om er een einde aan te maken of misschien om er een bredere discussie mee los te maken.
 
 Publeaks is een omgeving die deze tipgevers in staat stelt om veilig en anoniem informatie te lekken naar de pers. De tipgever kan zelf selecteren naar welke van de aangesloten mediaorganisaties hij of zij de stukken wil sturen en de ontvangende journalist kan berichten achterlaten voor de aanbieder.
