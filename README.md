@@ -3,8 +3,15 @@ Publeaks handleiding
 
 *Deze handleiding en documentatie is geschreven door [Greenhost](https://www.greenhost.nl) in samenwerking met [Marcel Oomens](https://www.github.com/marceloomens). Stuur vragen en opmerkingen aan support@publeaks.nl.*
 
-Inhoudsopgave
--------------
+***
+
+## Inhoudsopgave
+
+### Handleidingen
+
+
+
+### Documentatie
 
 1. [Over Publeaks](chapter-1.md)
   1. [Stichting Publeaks](chapter-1.md#stichting-publeaks)
@@ -18,7 +25,7 @@ Inhoudsopgave
   3. [PGP versleuteling van bestanden](chapter-2.md#pgp-versleuteling-van-bestanden)
   4. [Een laptop met Tails Linux](chapter-2.md#een-laptop-met-tails-linux)
   5. [Wachtwoorden](chapter-2.md#wachtwoorden)
-3. Opdrachten workshop
+3. [Opdrachten workshop](chapter-3.md)
 4. Handleiding receiver
 5. Backups
 6. Updaten van Tails
