@@ -26,6 +26,13 @@ Publeaks handleiding
   4. [Een laptop met Tails Linux](chapter-2.md#een-laptop-met-tails-linux)
   5. [Wachtwoorden](chapter-2.md#wachtwoorden)
 3. [Opdrachten workshop](chapter-3.md)
-4. Handleiding receiver
+4. [Handleiding receiver](chapter-4.md)
+  1. [Opstarten laptop en inloggen](chapter-4.md#opstarten-laptop-en-inloggen)
+  1. [Een encrypted persistent volume aanmaken](chapter-4.md#een-encrypted-persistent-volume-aanmaken)
+  1. [Het aanmaken van een PGP sleutelpaar](chapter-4.md#pgp-versleuteling-van-bestanden)
+  1. [Het publieke deel van de PGP key in Publeaks zetten](chapter-4.md#een-laptop-met-tails-linux)
+  1. [Ophalen van een tip](chapter-4.md#wachtwoorden)
+  1. [Decrypten van een toegezonden bestand](chapter-4.md#decrypted-van-een-toegezonden-bestand)
+  1. [Metadata verwijderen van bestanden](chapter-4.md#metadata-verwijderen-van-bestanden)
 5. Backups
 6. Updaten van Tails
