@@ -30,9 +30,9 @@ Publeaks handleiding
   1. [Opstarten laptop en inloggen](chapter-4.md#opstarten-laptop-en-inloggen)
   1. [Een encrypted persistent volume aanmaken](chapter-4.md#een-encrypted-persistent-volume-aanmaken)
   1. [Het aanmaken van een PGP sleutelpaar](chapter-4.md#pgp-versleuteling-van-bestanden)
-  1. [Het publieke deel van de PGP key in Publeaks zetten](chapter-4.md#een-laptop-met-tails-linux)
-  1. [Ophalen van een tip](chapter-4.md#wachtwoorden)
-  1. [Decrypten van een toegezonden bestand](chapter-4.md#decrypted-van-een-toegezonden-bestand)
+  1. [Het publieke deel van de PGP key in Publeaks zetten](chapter-4.md#het-publieke-deel-van-de-pgp-key-in-publeaks-zetten)
+  1. [Ophalen van een tip](chapter-4.md#ophalen-van-een-tip)
+  1. [Decrypten van een toegezonden bestand](chapter-4.md#decrypten-van-een-toegezonden-bestand)
   1. [Metadata verwijderen van bestanden](chapter-4.md#metadata-verwijderen-van-bestanden)
 5. Backups
 6. Updaten van Tails

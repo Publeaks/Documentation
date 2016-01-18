@@ -4,9 +4,9 @@ Handleidingen receiver
 1. [Opstarten laptop en inloggen](#opstarten-laptop-en-inloggen)
 1. [Een encrypted persistent volume aanmaken](#een-encrypted-persistent-volume-aanmaken)
 1. [Het aanmaken van een PGP sleutelpaar](#pgp-versleuteling-van-bestanden)
-1. [Het publieke deel van de PGP key in Publeaks zetten](#een-laptop-met-tails-linux)
-1. [Ophalen van een tip](#wachtwoorden)
-1. [Decrypten van een toegezonden bestand](#decrypted-van-een-toegezonden-bestand)
+1. [Het publieke deel van de PGP key in Publeaks zetten](#het-publieke-deel-van-de-pgp-key-in-publeaks-zetten)
+1. [Ophalen van een tip](#ophalen-van-een-tip)
+1. [Decrypten van een toegezonden bestand](#decrypten-van-een-toegezonden-bestand)
 1. [Metadata verwijderen van bestanden](#metadata-verwijderen-van-bestanden)
 
 [Terug naar de inhoudsopgave](README.md#inhoudsopgave)
