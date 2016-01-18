@@ -3,7 +3,7 @@ Handleidingen receiver
 
 1. [Opstarten laptop en inloggen](#opstarten-laptop-en-inloggen)
 1. [Een encrypted persistent volume aanmaken](#een-encrypted-persistent-volume-aanmaken)
-1. [Het aanmaken van een PGP sleutelpaar](#pgp-versleuteling-van-bestanden)
+1. [Het aanmaken van een PGP sleutelpaar](#het-aanmaken-van-een-pgp-sleutelpaar)
 1. [Het publieke deel van de PGP key in Publeaks zetten](#het-publieke-deel-van-de-pgp-key-in-publeaks-zetten)
 1. [Ophalen van een tip](#ophalen-van-een-tip)
 1. [Decrypten van een toegezonden bestand](#decrypten-van-een-toegezonden-bestand)

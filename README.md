@@ -29,7 +29,7 @@ Publeaks handleiding
 4. [Handleiding receiver](chapter-4.md)
   1. [Opstarten laptop en inloggen](chapter-4.md#opstarten-laptop-en-inloggen)
   1. [Een encrypted persistent volume aanmaken](chapter-4.md#een-encrypted-persistent-volume-aanmaken)
-  1. [Het aanmaken van een PGP sleutelpaar](chapter-4.md#pgp-versleuteling-van-bestanden)
+  1. [Het aanmaken van een PGP sleutelpaar](chapter-4.md#het-aanmaken-van-een-pgp-sleutelpaar)
   1. [Het publieke deel van de PGP key in Publeaks zetten](chapter-4.md#het-publieke-deel-van-de-pgp-key-in-publeaks-zetten)
   1. [Ophalen van een tip](chapter-4.md#ophalen-van-een-tip)
   1. [Decrypten van een toegezonden bestand](chapter-4.md#decrypten-van-een-toegezonden-bestand)
