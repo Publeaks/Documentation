@@ -27,6 +27,8 @@ Bezoekers van de Publeaks website wordt daarvoor aangeraden dit alleen te doen v
 
 Het anonimiseren werkt doordat Tor op zijn weg naar het internet eerst driemaal een willekeurige en versleutelde verbinding maakt met een computer in het Tor netwerk. De website die wordt bezocht kan daardoor bijna onmogelijk herleiden wie feitelijk de website bezoekt.
 
+![Wat is Tor?](assets/bof-what-is-tor.png "Wat is Tor?")
+
 Bij het Publeaks platform is het niet alleen de gebruiker die van Tor gebruik maakt, maar ook de server zelf. Niet alleen de gebruiker is dan anoniem, maar ook de server. Hierdoor is het op de server van Publeaks niet alleen onmogelijk om te achterhalen wie bestanden naar de Publeaks server heeft geüpload, maar ook dat niemand kan achterhalen waar de server fysiek staat. Daardoor is toegang krijgen tot de server en de data daarop een stuk moeilijker.
 
 Mocht een bezoeker zelf niet direct gebruik van het Tor netwerk willen of kunnen maken, dan werkt de normale Publeaks website als proxy naar het Tor netwerk. De verbinding met de website is dan beveiligd met SSL en vanaf daar wordt dan via het Tor netwerk een verbinding opgezet met de Publeaks server waar de data wordt opgeslagen.
@@ -40,6 +42,8 @@ Bestanden die worden geüpload naar de server worden daar versleuteld met PGP o
 
 PGP is een zogenoemde asymmetrische encryptie methode die werkt met sleutelparen. Elk sleutelpaar bestaat uit twee sleuteldelen, een publiek deel en een privé deel. De publieke sleutel wordt gebruikt voor het versleutelen van data en het privé deel voor het ontsleutelen van data.
 ￼￼￼￼￼￼
+![Hoe werkt PGP?](assets/how-does-pgp-work.png "Hoe werkt PGP?")
+
 Doordat je de publieke sleutel alléén gebruikt om data te versleutelen, kun je deze sleutel zonder problemen aan iedereen geven. Jij bent vervolgens de enige die de daarmee versleutelde data met jouw privé sleutel kan ontsleutelen. Deze versleutelde data kan dus veilig worden opgeslagen of worden verstuurd, zonder het gevaar dat iemand anders dit kan lezen of gebruiken.
 
 Het is dus zeer van belang dat de privé sleutel veilig wordt bewaard en van een zeer goed wachtwoord wordt voorzien.
