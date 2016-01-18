@@ -34,5 +34,6 @@ Publeaks handleiding
   1. [Ophalen van een tip](chapter-4.md#ophalen-van-een-tip)
   1. [Decrypten van een toegezonden bestand](chapter-4.md#decrypten-van-een-toegezonden-bestand)
   1. [Metadata verwijderen van bestanden](chapter-4.md#metadata-verwijderen-van-bestanden)
-5. Backups
-6. Updaten van Tails
+5. [Backups](chapter-5.md)
+  1. [Backup maken van de PGP sleutel](chapter-5.md#backup-maken-van-de-pgp-sleutel)
+6. [Updaten van Tails](chapter-6.md)
